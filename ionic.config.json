@@ -1,0 +1,8 @@
+{
+  "name": "Presence",
+  "app_id": "4ced5006",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
